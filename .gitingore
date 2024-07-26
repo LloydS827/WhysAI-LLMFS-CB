@@ -1,0 +1,2 @@
+*/__pycache__
+*.env # dotenv file for stroing LLM-API-KEY
